@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Downloads\cardboard-java-master\cardboard-java-master\CardboardSample\libs\cardboard.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="c3f82b1a4517f1d62a014512b9b3fd06af2987e8">
+        <dex dex="D:\Downloads\cardboard-java-master\cardboard-java-master\CardboardSample\build\intermediates\pre-dexed\debug\cardboard-5b3ae6b929e1b1f39e6db00fe673a37f5204db77.jar" />
+    </item>
+    <item
+        jar="D:\Downloads\cardboard-java-master\cardboard-java-master\CardboardSample\libs\libprotobuf-java-2.6-nano.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="2ba3ce68542db5a4b672a22606e4fd4631ed5c4f">
+        <dex dex="D:\Downloads\cardboard-java-master\cardboard-java-master\CardboardSample\build\intermediates\pre-dexed\debug\libprotobuf-java-2.6-nano-e3ac1c901456c3a7268f4ddd4e66f254edf94c4d.jar" />
+    </item>
+
+</items>
